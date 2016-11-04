@@ -7,6 +7,6 @@
 
 <p> Takes in voice input through a microphone and applies your chosen filter to it </p>
 
-<img src="recording.png" alt="Smiley face" height= "100" width = "50" >
-<img src="tap2rec.png" alt="Smiley face" >
-<img src="filters.png" alt="Smiley face" >
+<img src="recording.png" alt="Smiley face" height="100" width = "50" >
+<img src="tap2rec.png" alt="Smiley face" height="100" width = "50">
+<img src="filters.png" alt="Smiley face" height="100" width = "50">
