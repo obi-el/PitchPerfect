@@ -1,6 +1,5 @@
 # PitchPerfect
 
-<h1>PitchPerfect</h1>
 
 <p>IOS application built following Udacity tutorial</p>
 
